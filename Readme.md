@@ -18,7 +18,7 @@ This Web project is LikeLion 7's project to encourage people to donate.
 
 ## 프로젝트 캡쳐본
 
-[SYD IMG](./img/SYD.png)
+![SYD IMG](./img/SYD.png)
 
 
 
